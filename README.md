@@ -1,4 +1,4 @@
-# Skill_Swap_odoo_hackathom
+# Skill_Swap_odoo_hackathon
 Problem Statement 1 : Skill Swap Platform
 
 Team name : Code & Conquer
